@@ -16,14 +16,14 @@
 
 ## Activating and deactivating parts of cards
 
-1. Increase the attack power of the owner by the sum of the ![img.png](icons/attack.png) icons on the activated parts and
-   the ![img.png](icons/attack-down.png) icons on the deactivated parts. Decrease the attack power of the owner by the sum of
-   the ![img.png](icons/attack-down.png) icons on the activated parts and the ![img.png](icons/attack.png) icons on the
-   deactivated parts. If the resulting value is less than zero, it becomes zero.
-1. Increase the defense power of the owner by the sum of the ![img.png](icons/defense.png) icons on the activated parts and
-   the ![img.png](icons/defense-down.png) icons on the deactivated parts. Decrease the defense power of the owner by the sum of
-   the ![img.png](icons/defense-down.png) icons on the activated parts and the ![img.png](icons/defense.png) icons on the
-   deactivated parts. If the resulting value is less than zero, it becomes zero.
+1. Increase the attack power of the owner by the sum of the ![img.png](icons/attack.png) icons on the activated parts
+   and the ![img.png](icons/attack-down.png) icons on the deactivated parts. Decrease the attack power of the owner by
+   the sum of the ![img.png](icons/attack-down.png) icons on the activated parts and the ![img.png](icons/attack.png)
+   icons on the deactivated parts. If the resulting value is less than zero, it becomes zero.
+1. Increase the defense power of the owner by the sum of the ![img.png](icons/defense.png) icons on the activated parts
+   and the ![img.png](icons/defense-down.png) icons on the deactivated parts. Decrease the defense power of the owner by
+   the sum of the ![img.png](icons/defense-down.png) icons on the activated parts and the ![img.png](icons/defense.png)
+   icons on the deactivated parts. If the resulting value is less than zero, it becomes zero.
 1. If your pearl value is less than your pearl token count, discard tokens until they are equal. You choose which tokens
    to discard.
 1. If you pearl value is more than your pearl token count, take pearl tokens from the supply and add them with the
@@ -53,17 +53,18 @@
 
 1. Monsters, dragons and Overlords have health and strength.
 1. Set their health and strength equal to the values printed on their card.
-1. Increase their health by a number equal to the number of ![img.png](icons/health.png) reinforcement tokens on the card.
+1. Increase their health by a number equal to the number of ![img.png](icons/health.png) reinforcement tokens on the
+   card.
 1. Increase their strength by a number equal to the number of ![img.png](icons/strength.png) reinforcement tokens on the
    card.
 1. Apply all effects that change the health or strength of monsters, dragons or Overlords when determining their values.
 1. If the desert token is in play:
 1. Set N to 1, then multiply it by 2 for each active effect that says “Double the effect of the Desert Token”.
 1. If you have the Ignore the desert token effect, N is 0.
-1. If the side with “+1![img.png](icons/health.png) -1![img.png](icons/strength.png)” is face up, increase their health by N,
-   and decrease their strength by N.
-1. If the side with “+1![img.png](icons/strength.png) -1![img.png](icons/health.png)” is face up, increase their strength by
-   N, and decrease their health by N.
+1. If the side with “+1![img.png](icons/health.png) -1![img.png](icons/strength.png)” is face up, increase their health
+   by N, and decrease their strength by N.
+1. If the side with “+1![img.png](icons/strength.png) -1![img.png](icons/health.png)” is face up, increase their
+   strength by N, and decrease their health by N.
 1. For both values, if the value is less than zero, set it to zero.
 
 ## Taking damage

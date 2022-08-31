@@ -62,31 +62,31 @@
 
 1. Four Overlords are created specifically for co-op mode
 1. These are:
-   - Ryma, the Titan She-Boar;
-   - Whimper, the Underlord;
-   - The Grey Council;
-   - Cerberus
+    - Ryma, the Titan She-Boar;
+    - Whimper, the Underlord;
+    - The Grey Council;
+    - Cerberus
 
 ## Co-op adaptable Overlords
 
 1. Sixteen Overlords can be adapted for usage in co-op mode using an overlay card.
 1. These are:
-   - Lukah, the Archangel;
-   - King Arsen III, the Immortal;
-   - Vragan, The Blackest Knight;
-   - Jabar Rephet, Grand Vizier;
-   - Xavras, the Puppeteer;
-   - Cho’mun, the Ogre General;
-   - Dorhka, the Seer;
-   - Failurn, the Trickster;
-   - Beatrix, the Spelleater;
-   - Theria, the Dragonhead Hydra;
-   - Zeupitter, the Highest Hierarch;
-   - Petra, the Gorgon Godmother;
-   - Monophemus, the Cyclops Leader;
-   - Sa’akara, the Gamerunner;
-   - Doggon, the Shar’khan of Sixseas;
-   - Lerxos, the Ancient Sphinx
+    - Lukah, the Archangel;
+    - King Arsen III, the Immortal;
+    - Vragan, The Blackest Knight;
+    - Jabar Rephet, Grand Vizier;
+    - Xavras, the Puppeteer;
+    - Cho’mun, the Ogre General;
+    - Dorhka, the Seer;
+    - Failurn, the Trickster;
+    - Beatrix, the Spelleater;
+    - Theria, the Dragonhead Hydra;
+    - Zeupitter, the Highest Hierarch;
+    - Petra, the Gorgon Godmother;
+    - Monophemus, the Cyclops Leader;
+    - Sa’akara, the Gamerunner;
+    - Doggon, the Shar’khan of Sixseas;
+    - Lerxos, the Ancient Sphinx
 1. There are eight overlay cards, each having the list of abilities for a particular Overlord on either side.
 
 ## Reward tokens
@@ -96,7 +96,8 @@
 
 ## Reinforcement tokens
 
-1. Reinforcement tokens have a ![img.png](icons/health.png) icon on one side and a ![img.png](icons/strength.png) icon on the
+1. Reinforcement tokens have a ![img.png](icons/health.png) icon on one side and a ![img.png](icons/strength.png) icon
+   on the
    other side.
 1. Each token on a monster, dragon or Overlord card increases the stat that’s face up (either health or strength) by
    one.
@@ -158,7 +159,8 @@
 
 ## Weight value
 
-1. A player’s weight value is equal to the sum of his visible ![img.png](icons/weight.png) icons. This can be modified by
+1. A player’s weight value is equal to the sum of his visible ![img.png](icons/weight.png) icons. This can be modified
+   by
    effects.
 
 ## Speed value
@@ -178,8 +180,8 @@
 
 ## Undead value
 
-1. A player’s undead value is equal to the sum of his visible ![img.png](icons/undead.png) icons. This can be modified by
-   effects.
+1. A player’s undead value is equal to the sum of his visible ![img.png](icons/undead.png) icons. This can be modified
+   by effects.
 
 ## Another player
 

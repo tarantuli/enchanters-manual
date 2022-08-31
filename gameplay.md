@@ -10,11 +10,13 @@
 
 1. If there was an active Overlord event card, discard it.
 1. The top card of the Overlord event deck is turned face up, activating it.
-1. If the Overlord has hit points between 70 and 99, the effect under the ![img.png](icons/overlord-anger.png) header is resolved.
+1. If the Overlord has hit points between 70 and 99, the effect under the ![img.png](icons/overlord-anger.png) header is
+   resolved.
 1. If the Overlord has hit points between 40 and 69, the effect under
    the ![img.png](icons/overlord-anger.png)![img.png](icons/overlord-anger.png) header is resolved.
 1. If the Overlord has hit points between 1 and 39, the effect under
-   the ![img.png](icons/overlord-anger.png)![img.png](icons/overlord-anger.png)![img.png](icons/overlord-anger.png) header is resolved.
+   the ![img.png](icons/overlord-anger.png)![img.png](icons/overlord-anger.png)![img.png](icons/overlord-anger.png)
+   header is resolved.
 1. Some effects trigger immediately and only once, some offer conditional effects, some offer active effects until the
    beginning of the next Overlord turn.
 
@@ -42,7 +44,8 @@
 1. There are six slots on the track to journey to, numbered 0 to 5, from left to right.
 1. The player cannot travel to a slot that does not contain a card.
 1. The cost of journeying to a slot is a number of crystals equal to the slot number.
-1. If the player has the “journeys at ![img.png](icons/damage.png) 3 or more cost you only 3 ![img.png](icons/crystal.png)”
+1. If the player has the “journeys at ![img.png](icons/damage.png) 3 or more cost you only
+   3 ![img.png](icons/crystal.png)”
    effect, and the slot number is three or higher, this cost is set to 3.
 1. This cost is lowered by the player’s speed value. If it’s less than one, the cost is zero.
 1. If the player does not pay the cost, he cannot travel to this slot.
@@ -51,7 +54,8 @@
 
 1. If the slot contains a creature card, combat takes place (see there). If combat fails, skip the rest of the section.
 1. If the card contains an immediate effect ability, resolve it. These effects are prefixed with
-   the ![img.png](icons/immediate-effect.png) icon. If the player does not own the card anymore after resolving this ability, skip
+   the ![img.png](icons/immediate-effect.png) icon. If the player does not own the card anymore after resolving this
+   ability, skip
    the rest of the section.
 1. If the player has effects that trigger after taking a card of this type, resolve those.
 1. If that slot contains an item card, the player adds that card to his item stack.
@@ -70,7 +74,8 @@
 
 ## Resting
 
-1. To rest, the player chooses one of the rest actions available to him. Rest actions have ![img.png](icons/rest-action.png) in
+1. To rest, the player chooses one of the rest actions available to him. Rest actions
+   have ![img.png](icons/rest-action.png) in
    their cost.
 1. Each village card defines at least one rest action.
 1. Some item, enchantment and Overlord cards also define rest actions.
@@ -93,7 +98,8 @@
 
 1. Challenging the Overlord means fighting him to either gain reward tokens or reduce his hit points.
 1. If there is not an active Overlord in play, this action is not available.
-1. Most Overlord cards define at least one challenge action. Challenge actions have ![img.png](icons/overlord.png) in their
+1. Most Overlord cards define at least one challenge action. Challenge actions have ![img.png](icons/overlord.png) in
+   their
    cost.
 1. If the challenge action defines an additional cost, the player may pay it. If the player does not pay the cost, he
    cannot take this action.
@@ -138,7 +144,8 @@
 
 1. Set the player’s attack power to the sum of all visible ![img.png](icons/attack.png) icons, reduced by the sum of all
    visible ![img.png](icons/attack-down.png) icons. If the value is less than zero, the value is zero.
-1. Set the player’s defense power to the sum of all visible ![img.png](icons/defense.png) icons, reduced by the sum of all
+1. Set the player’s defense power to the sum of all visible ![img.png](icons/defense.png) icons, reduced by the sum of
+   all
    visible ![img.png](icons/defense-down.png) icons. If the value is less than zero, the value is zero.
 
 ## Resetting minor actions
@@ -165,9 +172,9 @@
 ## Victory point calculation
 
 1. Sum the victory points gained from the following sources:
-1. - From the village card.
-1. - From the visible sections of the cards in your stacks.
-1. - From reward tokens, where each reward token counts as a card with the description that appears in the “reward”
-   section of the Overlord card.
-1. - From your wound count: you get -1 victory point for each wound.
+    - From the village card.
+    - From the visible sections of the cards in your stacks.
+    - From reward tokens, where each reward token counts as a card with the description that appears in the “reward”
+      section of the Overlord card.
+    - From your wound count: you get -1 victory point for each wound.
 1. The total number of victory points may be less than zero.
