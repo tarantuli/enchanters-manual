@@ -24,7 +24,7 @@
 | Gladiators  | Arena Mundi      | Sa’akara, the Gamerunner             | Arenian    | of Gladiators     | Dueling and attacking                                      |
 | Harpies     | Upper Olympolis  | Zeupitter, the Highest Hierarch      | Olympian   | of Messengers     | Speed                                                      |
 
-[^1]: These Overlords are not adaptable to co-op mode.
+[^1]: These Overlords cannot be adapted to co-op mode.
 
 ## Other villages
 

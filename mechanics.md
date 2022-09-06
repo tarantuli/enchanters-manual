@@ -59,12 +59,12 @@
    card.
 1. Apply all effects that change the health or strength of monsters, dragons or Overlords when determining their values.
 1. If the desert token is in play:
-1. Set N to 1, then multiply it by 2 for each active effect that says “Double the effect of the Desert Token”.
-1. If you have the Ignore the desert token effect, N is 0.
-1. If the side with “+1![img.png](icons/health.png) -1![img.png](icons/strength.png)” is face up, increase their health
-   by N, and decrease their strength by N.
-1. If the side with “+1![img.png](icons/strength.png) -1![img.png](icons/health.png)” is face up, increase their
-   strength by N, and decrease their health by N.
+    1. Set N to 1, then multiply it by 2 for each active effect that says “Double the effect of the Desert Token”.
+    1. If you have the Ignore the desert token effect, N is 0.
+    1. If the side with “+1![img.png](icons/health.png) -1![img.png](icons/strength.png)” is face up, increase their
+       health by N, and decrease their strength by N.
+    1. If the side with “+1![img.png](icons/strength.png) -1![img.png](icons/health.png)” is face up, increase their
+       strength by N, and decrease their health by N.
 1. For both values, if the value is less than zero, set it to zero.
 
 ## Taking damage
@@ -125,7 +125,8 @@
 
 ## Journeying to the graveyard
 
-1. The active player may journey to the top card in the graveyard. Resolve ## Journey results.
+1. The active player may journey to the top card in the graveyard.
+   Resolve [Journey results](gameplay.md#journey-results).
 
 ## The Overlord and crystals
 

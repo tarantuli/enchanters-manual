@@ -45,8 +45,7 @@
 1. The player cannot travel to a slot that does not contain a card.
 1. The cost of journeying to a slot is a number of crystals equal to the slot number.
 1. If the player has the “journeys at ![img.png](icons/damage.png) 3 or more cost you only
-   3 ![img.png](icons/crystal.png)”
-   effect, and the slot number is three or higher, this cost is set to 3.
+   3 ![img.png](icons/crystal.png)” effect, and the slot number is three or higher, this cost is set to 3.
 1. This cost is lowered by the player’s speed value. If it’s less than one, the cost is zero.
 1. If the player does not pay the cost, he cannot travel to this slot.
 
@@ -55,8 +54,7 @@
 1. If the slot contains a creature card, combat takes place (see there). If combat fails, skip the rest of the section.
 1. If the card contains an immediate effect ability, resolve it. These effects are prefixed with
    the ![img.png](icons/immediate-effect.png) icon. If the player does not own the card anymore after resolving this
-   ability, skip
-   the rest of the section.
+   ability, skip the rest of the section.
 1. If the player has effects that trigger after taking a card of this type, resolve those.
 1. If that slot contains an item card, the player adds that card to his item stack.
 1. If that slot contains an enchantment card, the player adds that card to his enchantment stack.
@@ -75,8 +73,7 @@
 ## Resting
 
 1. To rest, the player chooses one of the rest actions available to him. Rest actions
-   have ![img.png](icons/rest-action.png) in
-   their cost.
+   have ![img.png](icons/rest-action.png) in their cost.
 1. Each village card defines at least one rest action.
 1. Some item, enchantment and Overlord cards also define rest actions.
 1. If the rest action defines an additional cost, the player may pay it. If the player does not pay the cost, he cannot
@@ -89,7 +86,7 @@
 
 1. If there is not an active Overlord in play, skip the rest of this section.
 1. This happens when a card from journey track slot 0 is discarded due to resting or failing combat.
-1. Invasion abilities are defined on the Overlord card as: type: effect.
+1. Invasion abilities are defined on the Overlord card as: *type: effect*.
 1. If the Overlord has invasion abilities associated with the type of the discarded card or any token on it, resolve the
    effects of the abilities.
 1. Discard all tokens on the card.
@@ -99,8 +96,7 @@
 1. Challenging the Overlord means fighting him to either gain reward tokens or reduce his hit points.
 1. If there is not an active Overlord in play, this action is not available.
 1. Most Overlord cards define at least one challenge action. Challenge actions have ![img.png](icons/overlord.png) in
-   their
-   cost.
+   their cost.
 1. If the challenge action defines an additional cost, the player may pay it. If the player does not pay the cost, he
    cannot take this action.
 1. Combat takes place. If combat fails, skip the rest of this section.
@@ -117,7 +113,7 @@
 
 ## Minor actions
 
-1. Minor actions are defined as: cost ![img.png](icons/minor-action.png) effect.
+1. Minor actions are defined as: *cost ![img.png](icons/minor-action.png) effect*.
 1. Rest actions and challenge actions also follow this format but are not considered minor actions. They have
    either ![img.png](icons/rest-action.png) or ![img.png](icons/overlord.png) in their cost.
 1. A player can activate minor actions visible on his stacks, on the village card and on the Overlord card.
@@ -132,7 +128,7 @@
 
 ## Paying weight cost
 
-1. If the player journeyed this turn, discard N crystals, where N is equal to his weight value.
+1. If the player journeyed this turn, discard crystals equal to his weight value.
 
 ## Resetting the journey track
 
@@ -145,8 +141,7 @@
 1. Set the player’s attack power to the sum of all visible ![img.png](icons/attack.png) icons, reduced by the sum of all
    visible ![img.png](icons/attack-down.png) icons. If the value is less than zero, the value is zero.
 1. Set the player’s defense power to the sum of all visible ![img.png](icons/defense.png) icons, reduced by the sum of
-   all
-   visible ![img.png](icons/defense-down.png) icons. If the value is less than zero, the value is zero.
+   all visible ![img.png](icons/defense-down.png) icons. If the value is less than zero, the value is zero.
 
 ## Resetting minor actions
 
@@ -156,8 +151,8 @@
 
 1. The game ends after a turn when there are no more cards on the journey track nor in the adventure deck.
 1. In a game where one complete kingdom deck is used per player, each player should’ve taken exactly 25 turns.
-1. If you are playing with the Arena Mundi village card, each player duels the player to their left.
-1. If you are playing with Sa’akara the Gamerunner, each player may duel a target player once for each reward token he
+1. If you are playing with the *Arena Mundi* village card, each player duels the player to their left.
+1. If you are playing with *Sa’akara the Gamerunner*, each player may duel a target player once for each reward token he
    possesses. The player may choose the same target multiple times.
 1. Each player calculates how many victory points he has. The players with the highest amount wins, each other player
    loses.

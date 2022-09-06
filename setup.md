@@ -2,8 +2,8 @@
 
 ## Game mode choices
 
-1. Choose whether you want to use basic fists or banners as starting items.
-1. Choose whether you want to use basic of enchanting or classes as starting enchantments.
+1. Choose whether you want to use basic *fists* or banners as starting items.
+1. Choose whether you want to use basic *enchanting* or classes as starting enchantments.
 1. Choose whether you want to either select random kingdom decks, select kingdom decks in player order, or select
    kingdom decks as a group.
 1. Choose whether you want a shorter game.
@@ -27,7 +27,7 @@
 ## Adventure deck selection
 
 1. If you are setting up a game for beginners, it is recommended to reduce the list of available kingdom decks to
-   Cultists, Goblins, Unicorns and Bandits.
+   *Cultists*, *Goblins*, *Unicorns* and *Bandits*.
 1. If you chose to select random kingdom decks, draw die cards equal to the kingdom deck count. Take the kingdom decks
    referenced by the drawn die cards.
 1. If you chose to select kingdom decks in player order, let the player to the right of the starting player select a
@@ -51,14 +51,14 @@
 
 ## Initial magical artifact
 
-1. If you chose basic fists as the starting items, give each player a fist card. This is placed face up in his item
+1. If you chose basic fists as the starting items, give each player a *fist* card. This is placed face up in his item
    stack.
 1. If you chose banners as the starting items and chose to use completely random banners, give each player two random
    banner cards. The player chooses one of these cards and places it face up in his item stack. The other card is
    discarded.
 1. If you chose banners as the starting items and chose to use the kingdom related banners, gather the banners
    associated with the selected kingdoms, shuffle them, and deal one to each player.
-1. If you chose basic enchanting as the starting items, give each player an of enchanting card. This is placed face up
+1. If you chose basic enchanting as the starting items, give each player an *enchanting* card. This is placed face up
    in his enchantment stack.
 1. If you chose classes as the starting enchantments and chose to use completely random classes, give each player two
    random class cards. The player chooses one of these cards and places it face up in his enchantment stack. The other
@@ -68,11 +68,11 @@
 
 ## Village card selection
 
-1. If you chose a co-op game, select the Enchanters Guild as the village card.
-1. Otherwise, if you chose a non-co-op game for beginners, it is recommended to select Normaltown as the village card.
+1. If you chose a co-op game, select the *Enchanters Guild* as the village card.
+1. Otherwise, if you chose a non-co-op game for beginners, it is recommended to select *Normaltown* as the village card.
 1. Otherwise, if you chose to use kingdom related villages, gather the village cards associated with the selected
    kingdoms, shuffle them, and draw one to use as the village card. Discard the rest.
-1. Otherwise, draw a random card from the deck of village cards. If it’s the Enchanters Guild, draw another one. Use
+1. Otherwise, draw a random card from the deck of village cards. If it’s the *Enchanters Guild*, discard it and draw another one. Use
    this card as the village card.
 1. Put the selected village card face up on its slot on the table.
 
@@ -91,11 +91,11 @@
 1. If you did not choose a co-op game, skip the rest of this section.
 1. If you chose a harder co-op game, select one of the four co-op specific Overlords.
 1. If you chose an easier co-op game:
-1. If you chose to use kingdom related Overlords, gather the Overlord cards associated with the selected kingdoms,
-   shuffle them, and draw one.
-1. Otherwise, select one of the sixteen co-op adaptable Overlords as a group.
-1. Find the Overlord overlay card with the name of the selected Overlord on it and place it on top of the left-hand side
-   of the Overlord card, thereby replacing its abilities.
+   1. If you chose to use kingdom related Overlords, gather the Overlord cards associated with the selected kingdoms,
+      shuffle them, and draw one.
+   1. Otherwise, select one of the sixteen co-op adaptable Overlords as a group.
+   1. Find the Overlord overlay card with the name of the selected Overlord on it and place it on top of the left-hand side
+      of the Overlord card, thereby replacing its abilities.
 1. Put the selected Overlord card face up on the Overlord slot on the table.
 1. Set the Overlord dial to 99 hit points and put it near the Overlord slot on the table.
 
@@ -111,10 +111,10 @@
 
 1. If you did not choose a co-op game, skip the rest of this section.
 1. Take the wound threshold card associated with the chosen co-op difficulty setting:
-1. Easy results in a threshold of 50.
-1. Normal results in a threshold of 40.
-1. Hard results in a threshold of 30.
-1. Very hard results in a threshold of 25.
+   - *Easy* results in a threshold of 50.
+   - *Normal* results in a threshold of 40.
+   - *Hard* results in a threshold of 30.
+   - *Very hard* results in a threshold of 25.
 1. Put the selected card face up near the wound pool.
 
 ## Wound deck preparation
@@ -124,11 +124,11 @@
 ## Crystals
 
 1. Each player takes 5 crystals.
-1. If the Cave of Fools is the selected village card, each player takes 25 crystals instead.
-1. If a player has of Sculptors as his starting enchantment, he takes an additional 20 crystals.
+1. If the *Cave of Fools* is the selected village card, each player takes 25 crystals instead.
+1. If a player has *of Sculptors* as his starting enchantment, he takes an additional 20 crystals.
 
 ## Desert token
 
-1. If you are not playing with Overlord Lerxos, the Ancient Sphinx, with village card Ne-Ne-Ne-Sethos, or with kingdom
-   deck the Mummies, skip the rest of this section.
+1. If you are not playing with Overlord *Lerxos, the Ancient Sphinx*, with village card *Ne-Ne-Ne-Sethos*, or with kingdom
+   deck the *Mummies*, skip the rest of this section.
 1. Take the desert token and put it on the table with a random side face up.

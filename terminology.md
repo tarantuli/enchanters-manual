@@ -18,7 +18,7 @@
    six cards of a minor monster, four cards of a medium monster and two cards of a major monster. These cards have
    the ![img.png](icons/monster.png) type icon.
 1. Each deck contains one dragon card with the two-player game marker on the back. This card has
-   the ![img.png](icons/dragon.png) type icon. The Dracons deck contains two dragon cards.
+   the ![img.png](icons/dragon.png) type icon. The *Dracons* deck contains two dragon cards.
 
 ## Village cards
 
@@ -27,13 +27,13 @@
 1. Each village card may define actions available to each player, active effects, and victory point conditions at the
    end of the game.
 
-## Basic fist cards
+## Basic “fist” cards
 
-1. Basic fist cards are item cards with no effects that can be used as initial item cards during setup.
+1. Basic “fist” cards are item cards with no effects that can be used as initial item cards during setup.
 
-## Basic of enchanting cards
+## Basic “of enchanting” cards
 
-1. Basic of enchanting cards are enchantment cards with no effects that can be used as initial enchantment cards during
+1. Basic of enchanting” cards are enchantment cards with no effects that can be used as initial enchantment cards during
    setup.
 
 ## Banner cards
@@ -58,7 +58,7 @@
 1. For co-op specific or co-op adapted Overlords, the reward section lists the effects to resolve after challenging the
    Overlord. For other Overlords, it lists the effects a reward token represents.
 
-## Co-op specific Overlords
+### Co-op specific Overlords
 
 1. Four Overlords are created specifically for co-op mode
 1. These are:
@@ -67,7 +67,7 @@
     - The Grey Council;
     - Cerberus
 
-## Co-op adaptable Overlords
+### Co-op adaptable Overlords
 
 1. Sixteen Overlords can be adapted for usage in co-op mode using an overlay card.
 1. These are:
@@ -185,8 +185,8 @@
 
 ## Another player
 
-1. Another player refers to any player except the effect owner or active player.
+1. *Another player* refers to any player except the effect owner or active player.
 
 ## Other players
 
-1. Other players refers to every player except the effect owner or active player.
+1. *Other players* refers to every player except the effect owner or active player.
