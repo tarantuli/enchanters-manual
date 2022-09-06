@@ -1,3 +1,5 @@
+[Return to index](README.md)
+
 # Gameplay
 
 ## Flow of the game
@@ -173,3 +175,5 @@
       section of the Overlord card.
     - From your wound count: you get -1 victory point for each wound.
 1. The total number of victory points may be less than zero.
+
+[Return to index](README.md)

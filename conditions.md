@@ -1,3 +1,5 @@
+[Return to index](README.md)
+
 # Conditions Table
 
 | Text                                                                                               | Triggers….                                                                                                       |
@@ -20,3 +22,5 @@
 | If there is 1![img.png](icons/reward.png) per player on the ![img.png](icons/village.png)          | Whenever there is a number of reward tokens on the village card equal to the number of players.                  |
 | If there are 3 or more ![img.png](icons/reward.png) per player on the Overlord.                    | Whenever there is a number of reward tokens on the Overlord card equal to three times the number of players.     |
 | When the game ends<br>⮴ Before final scoring                                                       | At the beginning of the final scoring phase of the game.                                                         |
+
+[Return to index](README.md)

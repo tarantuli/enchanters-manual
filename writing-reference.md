@@ -1,3 +1,5 @@
+[Return to index](README.md)
+
 # Writing Reference
 
 ## Standard Terminology
@@ -55,3 +57,5 @@
 | Desert token       |                   |         |     |         |
 | Winning            |                   |         |     |         |
 | Losing             |                   |         |     |         |
+
+[Return to index](README.md)

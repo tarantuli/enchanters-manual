@@ -1,3 +1,5 @@
+[Return to index](README.md)
+
 # Deck Themes
 
 ## Main themes
@@ -73,3 +75,5 @@
 | Ryma, the Titan She-Boar       | Used in co-op mode |
 | Cerberus, the Infernal Dog God | Used in co-op mode |
 | Xyz, the Voidbringer           | –                  |
+
+[Return to index](README.md)

@@ -1,3 +1,5 @@
+[Return to index](README.md)
+
 # Quick Setup
 
 1. Select a starting player.
@@ -27,3 +29,5 @@
 1. Each player takes 5 crystals. The *Cave of Fools* village card and the *of Sculptors* class may change this amount.
 1. If you are playing with Overlord *Lerxos, the Ancient Sphinx*, with village card *Ne-Ne-Ne-Sethos*, or with kingdom deck
    *the Mummies*, put the desert token on the table, random side up.
+
+[Return to index](README.md)

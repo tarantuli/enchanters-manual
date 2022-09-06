@@ -1,3 +1,5 @@
+[Return to index](README.md)
+
 # Effects Table
 
 | Text                                                                                                                                                                                                                           | Meaning                                                                                                                                                                                                                                                          |
@@ -184,3 +186,5 @@
 | Turn the Desert Token to its Sandstorm side.                                                                                                                                                                                   | If the “+one![img.png](icons/health.png) -one![img.png](icons/strength.png)” side of the desert token is face up, flip it.                                                                                                                                       |
 | Turn the Desert Token to its Sandstorm side.                                                                                                                                                                                   | If the “+one ![img.png](icons/strength.png) -one ![img.png](icons/health.png)” side of the desert token is face up, flip it.                                                                                                                                     |
 | All players lose<br>⮴ You lose                                                                                                                                                                                                 | Each player loses the game.                                                                                                                                                                                                                                      |
+
+[Return to index](README.md)

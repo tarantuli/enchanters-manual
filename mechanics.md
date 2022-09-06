@@ -1,3 +1,5 @@
+[Return to index](README.md)
+
 # Mechanics
 
 ## Adding a card to a stack
@@ -146,3 +148,5 @@
 1. In both cases, if this action would be considered positive for the player or negative for the Overlord, remove one
    reinforcement token of his choice from the Overlord card. Otherwise add one reinforcement token to the Overlord card,
    with a random side up.
+
+[Return to index](README.md)

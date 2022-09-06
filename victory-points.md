@@ -1,3 +1,5 @@
+[Return to index](README.md)
+
 # Victory Points Table
 
 | Text                                                                                                  | This card is worth victory points equal to…                                                                  |
@@ -24,3 +26,5 @@
 | ![img.png](icons/score.png) for each ![img.png](icons/monster.png) or ![img.png](icons/dragon.png)    | Your monster count plus your dragon count.                                                                   |
 | 4![img.png](icons/score.png) for each ![img.png](icons/dragon.png)                                    | Your dragon count multiplied by 4.                                                                           |
 | 2![img.png](icons/score.png) for each ![img.png](icons/reward.png)                                    | Your reward token count. This means that N tokens with this text have a total worth of 2×N×N victory points. |
+
+[Return to index](README.md)

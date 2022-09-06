@@ -1,3 +1,5 @@
+[Return to index](README.md)
+
 # Setup
 
 ## Game mode choices
@@ -132,3 +134,5 @@
 1. If you are not playing with Overlord *Lerxos, the Ancient Sphinx*, with village card *Ne-Ne-Ne-Sethos*, or with kingdom
    deck the *Mummies*, skip the rest of this section.
 1. Take the desert token and put it on the table with a random side face up.
+
+[Return to index](README.md)

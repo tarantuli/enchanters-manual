@@ -1,3 +1,5 @@
+[Return to index](README.md)
+
 # Terminology
 
 ## Crystals tokens
@@ -190,3 +192,5 @@
 ## Other players
 
 1. *Other players* refers to every player except the effect owner or active player.
+
+[Return to index](README.md)
