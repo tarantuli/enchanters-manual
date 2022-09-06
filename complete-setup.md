@@ -167,7 +167,7 @@ If you did not choose a co-op game, skip the rest of this section.
 ## Crystals
 
 1. Each player takes 5 crystals.
-1. If the *Cave of Fools* is the selected village card, each player takes 25 crystals instead.
+    1. If the *Cave of Fools* is the selected village card, each player takes 25 crystals instead.
 1. If a player has *of Sculptors* as his starting enchantment, he takes an additional 20 crystals.
 
 ## Desert token

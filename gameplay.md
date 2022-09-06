@@ -24,7 +24,7 @@
 
 ## Player turn
 
-1. A player turn consists of the beginning of his turn, then a main phase followed by a clean up face.
+1. A player turn consists of the beginning of his turn, then a main phase followed by a clean up phase.
 1. The main phase consists of exactly one main action and any number of minor actions, in any order.
 1. The clean up phase consists of paying weight cost, resetting the journey track, resetting the attack and defense
    power of the player, and resetting minor actions.
@@ -44,12 +44,12 @@
 
 1. Journeying means taking a card from the journey track.
 1. There are six slots on the track to journey to, numbered 0 to 5, from left to right.
-1. The player cannot travel to a slot that does not contain a card.
+1. The player cannot journey to a slot that does not contain a card.
 1. The cost of journeying to a slot is a number of crystals equal to the slot number.
 1. If the player has the “journeys at ![img.png](icons/damage.png) 3 or more cost you only
    3 ![img.png](icons/crystal.png)” effect, and the slot number is three or higher, this cost is set to 3.
 1. This cost is lowered by the player’s speed value. If it’s less than one, the cost is zero.
-1. If the player does not pay the cost, he cannot travel to this slot.
+1. If the player does not pay the cost, he cannot journey to this slot.
 
 ## Journey results
 
@@ -58,16 +58,18 @@
    the ![img.png](icons/immediate-effect.png) icon. If the player does not own the card anymore after resolving this
    ability, skip the rest of the section.
 1. If the player has effects that trigger after taking a card of this type, resolve those.
-1. If that slot contains an item card, the player adds that card to his item stack.
-1. If that slot contains an enchantment card, the player adds that card to his enchantment stack.
-1. If that slot contains a creature card, the player adds that card to his creature stack.
+1. If it's item card, the player adds that card to his item stack.
+1. If it's an enchantment card, the player adds that card to his enchantment stack.
+1. If it's a creature card, the player adds that card to his creature stack.
 
 ## Combat
 
 1. The player may take any minor actions he desires.
-1. If the player does not have attack power equal to or greater than the health of the creature, then: combat failed.
-   Discard the card on journey track slot 0. If there is an active Overlord in play, the discarded card may trigger an
-   invasion. Skip the rest of this section.
+1. If the player does not have attack power equal to or greater than the health of the creature:
+    2. Combat failed.
+    3. Discard the card on journey track slot 0.
+    4. If there is an active Overlord in play, the discarded card may trigger an invasion.
+    5. Skip the rest of this section.
 1. The creature attacks the player.
 1. Combat was successful, and the creature is defeated. If the player has abilities that trigger when a creature of this
    type is defeated, resolve them now.
