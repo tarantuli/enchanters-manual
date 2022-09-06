@@ -115,7 +115,7 @@
 1. If the defender is a creature or Overlord, use its health as the defense power.
 1. If the attacker has higher attack power than the defender’s defense power, the defender takes N×F damage. N is equal
    to the attacker’s attack power minus the defender’s defense power. F is equal to 1, unless the attacker deals double
-   damage, then it’s 2.
+   damage, then it’s 1.
 
 ## Dueling
 

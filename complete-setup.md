@@ -1,16 +1,23 @@
 [Return to index](README.md)
 
-# Setup
+# Complete Setup
 
 ## Game mode choices
 
-1. Choose whether you want to use basic *fists* or banners as starting items.
-1. Choose whether you want to use basic *enchanting* or classes as starting enchantments.
-1. Choose whether you want to either select random kingdom decks, select kingdom decks in player order, or select
-   kingdom decks as a group.
+1. Choose what you want to use as starting items:
+    1. Basic *fists*;
+    1. Banners.
+1. Choose what you want to use as starting enchantments:
+    1. Basic *of enchanting*;
+    1. Classes.
+1. Choose how you want to select kingdom decks:
+    1. Select randomly;
+    1. Select decks in player order;
+    1. Select decks as as group.
 1. Choose whether you want a shorter game.
-1. Choose whether you want completely random villages, banners, classes and Overlords, or kingdom related villages,
-   banners, classes, and Overlords.
+1. Choose what you want:
+    1. Completely random villages, banners, classes and Overlords;
+    1. Kingdom related villages, banners, classes, and Overlords.
 1. Choose whether you want to add an Overlord to the game.
 1. Choose whether you want to do a co-op game.
 1. If you chose a co-op game, choose whether you want a harder co-op game or a simpler co-op game (Overlord type).
@@ -74,7 +81,8 @@
 1. Otherwise, if you chose a non-co-op game for beginners, it is recommended to select *Normaltown* as the village card.
 1. Otherwise, if you chose to use kingdom related villages, gather the village cards associated with the selected
    kingdoms, shuffle them, and draw one to use as the village card. Discard the rest.
-1. Otherwise, draw a random card from the deck of village cards. If it’s the *Enchanters Guild*, discard it and draw another one. Use
+1. Otherwise, draw a random card from the deck of village cards. If it’s the *Enchanters Guild*, discard it and draw
+   another one. Use
    this card as the village card.
 1. Put the selected village card face up on its slot on the table.
 
@@ -93,11 +101,12 @@
 1. If you did not choose a co-op game, skip the rest of this section.
 1. If you chose a harder co-op game, select one of the four co-op specific Overlords.
 1. If you chose an easier co-op game:
-   1. If you chose to use kingdom related Overlords, gather the Overlord cards associated with the selected kingdoms,
-      shuffle them, and draw one.
-   1. Otherwise, select one of the sixteen co-op adaptable Overlords as a group.
-   1. Find the Overlord overlay card with the name of the selected Overlord on it and place it on top of the left-hand side
-      of the Overlord card, thereby replacing its abilities.
+    1. If you chose to use kingdom related Overlords, gather the Overlord cards associated with the selected kingdoms,
+       shuffle them, and draw one.
+    1. Otherwise, select one of the sixteen co-op adaptable Overlords as a group.
+    1. Find the Overlord overlay card with the name of the selected Overlord on it and place it on top of the left-hand
+       side
+       of the Overlord card, thereby replacing its abilities.
 1. Put the selected Overlord card face up on the Overlord slot on the table.
 1. Set the Overlord dial to 99 hit points and put it near the Overlord slot on the table.
 
@@ -113,10 +122,10 @@
 
 1. If you did not choose a co-op game, skip the rest of this section.
 1. Take the wound threshold card associated with the chosen co-op difficulty setting:
-   - *Easy* results in a threshold of 50.
-   - *Normal* results in a threshold of 40.
-   - *Hard* results in a threshold of 30.
-   - *Very hard* results in a threshold of 25.
+    - *Easy* results in a threshold of 50.
+    - *Normal* results in a threshold of 40.
+    - *Hard* results in a threshold of 30.
+    - *Very hard* results in a threshold of 25.
 1. Put the selected card face up near the wound pool.
 
 ## Wound deck preparation
@@ -131,7 +140,8 @@
 
 ## Desert token
 
-1. If you are not playing with Overlord *Lerxos, the Ancient Sphinx*, with village card *Ne-Ne-Ne-Sethos*, or with kingdom
+1. If you are not playing with Overlord *Lerxos, the Ancient Sphinx*, with village card *Ne-Ne-Ne-Sethos*, or with
+   kingdom
    deck the *Mummies*, skip the rest of this section.
 1. Take the desert token and put it on the table with a random side face up.
 

@@ -58,4 +58,14 @@
 | Winning            |                   |         |     |         |
 | Losing             |                   |         |     |         |
 
+## Cleaning up files
+
+### Normalizing numbered list indices
+
+Using PhpStorm:
+
+- Replace in files
+- Find `^( *)\d\.` (regex)
+- Replace by `$11.`
+
 [Return to index](README.md)
