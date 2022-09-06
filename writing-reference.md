@@ -19,6 +19,7 @@
 - Put specific card names in italics.
   E.g., the *Cave of Fools* village card.
 - Be careful to use creature, monster, and dragon correctly.
+- You “journey” to slots, you don't “travel”.
 
 ## Ordering items
 
