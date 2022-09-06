@@ -18,6 +18,8 @@
 
 ## Activating and deactivating parts of cards
 
+> Summary –  recalculate your attack power, defense power and pearl count.
+
 1. Increase the attack power of the owner by the sum of the ![img.png](icons/attack.png) icons on the activated parts
    and the ![img.png](icons/attack-down.png) icons on the deactivated parts. Decrease the attack power of the owner by
    the sum of the ![img.png](icons/attack-down.png) icons on the activated parts and the ![img.png](icons/attack.png)

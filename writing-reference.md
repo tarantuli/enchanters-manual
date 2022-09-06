@@ -6,7 +6,7 @@
 
 - Always write “Overlord” with a capital.
 - Whenever you are referring to a card, make sure to add “card” to the text.
-  E.g., you add tokens to an Overlord card, but it’s an Overlord (without card) that attacks.
+  E.g., you add tokens to an *Overlord* card, but it’s an Overlord (without card) that attacks.
 - Refer to stack and deck positions as “top” and “bottom”, and to card sections as “upper”, “lower”, “middle”, “left”
   and “right”.
 - Use “each player” instead of “all players” or “every player”.
@@ -17,7 +17,7 @@
   - E.g., you pay 2![img.png](icons/crystal.png) by discarding two crystals.
 - Abilities are triggered by circumstances; effects are resolved by players.
 - Put specific card names in italics.
-  E.g., the Cave of Fools village card.
+  E.g., the *Cave of Fools* village card.
 - Be careful to use creature, monster, and dragon correctly.
 
 ## Ordering items
