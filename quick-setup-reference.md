@@ -1,13 +1,11 @@
 [Return to index](README.md)
 
-# Quick Setup
+# Quick Setup Reference[^1]
 
 1. Select a starting player.
 1. Set the deck count equal to the number of players.
-    1. Double this in a two-player game or a co-op game.
-1. Do either:
-    1. Draw die cards equal to the deck count and select these kingdom decks;
-    1. Select kingdom decks as a group from the main themes table.
+    1. Double this in a two-player game or a co-op game. 
+1. Select kingdom decks as a group from the main themes table.
 1. If this is a two-player game or a co-op game, remove all cards that do not have a 2 printed on the back.
 1. Shuffle the remaining cards to form the adventure deck.
 1. Filter a number of item and enchantment cards to the top equal to the number of players times two.
@@ -35,3 +33,5 @@
    deck the *Mummies*, put the desert token on the table, random side up.
 
 [Return to index](README.md)
+
+[^1]: This is based on opinionated choices, see the [comeplete setup guide](complete-setup-guide.md) for all possibilities.

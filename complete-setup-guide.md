@@ -1,24 +1,24 @@
 [Return to index](README.md)
 
-# Complete Setup
+# Complete Setup Guide
 
 ## Game mode choices
 
 1. Choose what you want to use as starting items:
     1. Basic *fists*;
-    1. Banners.
+    1. Banners.[^1]
 1. Choose what you want to use as starting enchantments:
     1. Basic *of enchanting*;
-    1. Classes.
+    1. Classes.[^1]
 1. Choose how you want to select kingdom decks:
     1. Select randomly;
     1. Select decks in player order;
-    1. Select decks as as group.
+    1. Select decks as as group.[^1]
 1. Choose whether you want a shorter game.
 1. Choose what you want:
     1. Completely random villages, banners, classes and Overlords;
-    1. Kingdom related villages, banners, classes, and Overlords.
-1. Choose whether you want to add an Overlord to the game.
+    1. Kingdom related villages, banners, classes, and Overlords.[^1]
+1. Choose whether you want to add an Overlord to the game.[^1]
 1. Choose whether you want to do a co-op game.
 
 ### Co-op game specific choices
@@ -178,3 +178,5 @@ deck the *Mummies*, skip the rest of this section.
 1. Take the desert token and put it on the table with a random side face up.
 
 [Return to index](README.md)
+
+[^1]: My personal preference for a fun, but consistent game, used in the [quick setup reference](quick-setup-reference.md).

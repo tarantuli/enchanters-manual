@@ -1,6 +1,8 @@
 [Return to index](README.md)
 
-# Victory Points Table
+# Victory Points
+
+## Standardized meanings of card texts
 
 | Text                                                                                                  | This card is worth victory points equal to…                    |
 |-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|

@@ -3,17 +3,17 @@
 <!-- TOC -->
 
 * [What and Why](#what-and-why)
-* [Extended Table of Contents](toc.md#expanded-table-of-contents)
+* [Expanded Table of Contents](toc.md#expanded-table-of-contents)
 * [Terminology](terminology.md#terminology)
 * [Deck Themes](deck-themes.md#deck-themes)
-* [Quick Setup](quick-setup.md#quick-setup)
-* [Complete Setup](complete-setup.md#complete-setup)
+* [Quick Setup Reference](quick-setup-reference.md#quick-setup-reference1)
+* [Complete Setup Guide](complete-setup-guide.md#complete-setup-guide)
 * [Gameplay](gameplay.md#gameplay)
 * [Mechanics](mechanics.md#mechanics)
 * [Costs](costs.md#costs)
-* [Conditions Table](conditions.md#conditions-table)
-* [Effects Table](effects.md#effects-table)
-* [Victory Points Table](victory-points.md#victory-points-table)
+* [Conditions](conditions.md#conditions)
+* [Effects](effects.md#effects)
+* [Victory Points](victory-points.md#victory-points)
 * [Writing Reference](writing-reference.md#writing-reference)
 
 <!-- TOC -->
@@ -34,13 +34,14 @@ This document aims to resolve these issues by providing:
 
 - An [overview](deck-themes.md#deck-themes) of all the kingdom decks, their themes and their associated banners, classes
   and Overlords;
-- A [quick setup guide](quick-setup.md#quick-setup) with just the relevant choices;
-- An [extended setup guide](complete-setup.md#complete-setup) containing all the nitty gritty details;
+- A [quick setup reference](quick-setup-reference.md#quick-setup-reference1) based on the complete setup guide and
+  opinionated choices;
+- A [complete setup guide](complete-setup-guide.md#complete-setup-guide) containing all the nitty gritty details;
 - Complete definitions of [gameplay flow](gameplay.md#flow-of-the-game) and [mechanics](mechanics.md#mechanics);
 - Consistent interpretations of card texts ([costs](costs.md#costs),
-  [conditions](conditions.md#conditions-table), [effects](effects.md#effects-table),
-  [victory points](victory-points.md#victory-points-table)).
+  [conditions](conditions.md#conditions), [effects](effects.md#effects),
+  [victory points](victory-points.md#victory-points)).
 
 It tries to steer away from opinionated choices, to stay as close to the original texts as possible while being
 consistent. Whenever possible, interpretations fitting the spirit of the game were chosen over literal, but
-illogical or overly complex ones.
+illogical ones. Also, we prefer simple and clean interpretations over complex ones.

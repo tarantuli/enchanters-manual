@@ -2,7 +2,7 @@
 
 # Writing Reference
 
-## Standard Terminology
+## Standard terminology
 
 - Always write “Overlord” with a capital.
 - Whenever you are referring to a card, make sure to add “card” to the text.
