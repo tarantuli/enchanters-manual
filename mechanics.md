@@ -19,8 +19,9 @@
 * [Attacking](#attacking)
 * [Dueling](#dueling)
 * [Journeying to the graveyard](#journeying-to-the-graveyard)
-* [The Overlord and crystals](#the-overlord-and-crystals)
-* [The Overlord and cards](#the-overlord-and-cards)
+* [The Overlord as a target in co-op mode](#the-overlord-as-a-target-in-co-op-mode)
+    * [The Overlord and crystals](#the-overlord-and-crystals)
+    * [The Overlord and cards](#the-overlord-and-cards)
 
 <!-- TOC -->
 
@@ -154,7 +155,9 @@
 1. The active player may journey to the top card in the graveyard.
    Resolve [Journey results](gameplay.md#journey-results).
 
-## The Overlord and crystals
+## The Overlord as a target in co-op mode
+
+### The Overlord and crystals
 
 1. If this is not a co-op game, skip this section.
 1. If the active player gives crystals to the Overlord, store them on his card.
@@ -163,7 +166,7 @@
 1. If a player must take crystals from the Overlord, take as many from its card as you can, then take the rest from the
    supply.
 
-## The Overlord and cards
+### The Overlord and cards
 
 1. If this is not a co-op game, skip this section.
 1. If a player must give one of his cards to the Overlord due to any effect that’s not part of the Overlord’s own

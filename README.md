@@ -6,7 +6,7 @@
 * [Coverage](#coverage)
 * [How to Contribute](#how-to-contribute)
 * [Known Issues](#known-issues)
-* [Expanded Table of Contents](toc.md#expanded-table-of-contents)
+* [Keyword Index](keyword-index.md#keyword-index)
 * [Terminology](terminology.md#terminology)
 * [Deck Themes](deck-themes.md#deck-themes)
 * [Quick Setup Reference](quick-setup-reference.md#quick-setup-reference1)
@@ -23,7 +23,7 @@
 
 # What and why
 
-This is an extended manual for the boardgame *Enchanters* (https://mythicgames.net/enchanters-a-serial-fantasy/) by 
+This is an extended manual for the boardgame *Enchanters* (https://mythicgames.net/enchanters-a-serial-fantasy/) by
 *Mythic Games*.
 
 It's a personal, non affiliated project, born from a desire to apply my technical writing itch, and this game was an
@@ -84,5 +84,5 @@ Lastly, if you find this manual useful, please share it with friends who would a
 
 # Known issues
 
-- The manual mixes "you", "the player" and "the active player", probably inconsistently.
-- 
+- The manual mixes usage of "you", "the player" and "the active player", probably inconsistently.
+- Icons are represented by black on white opaque images of rather low quality instead of vector glyphs. 
