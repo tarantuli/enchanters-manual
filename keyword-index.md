@@ -1,5 +1,9 @@
 # Keyword Index
 
+<!-- TOC -->
+[ [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [G](#g) | [H](#h) | [J](#j) | [K](#k) | [M](#m) | [O](#o) | [P](#p) | [R](#r) | [S](#s) | [U](#u) | [V](#v) | [W](#w) ]
+<!-- TOC -->
+
 ## A
 
 - [Adventure deck](terminology.md#adventure-deck)
