@@ -2,6 +2,16 @@
 
 # Deck Themes
 
+<!-- TOC -->
+
+* [Main themes](#main-themes)
+* [Other villages](#other-villages)
+* [Other banners](#other-banners)
+* [Other classes](#other-classes)
+* [Other Overlords](#other-overlords)
+
+<!-- TOC -->
+
 ## Main themes
 
 | Kingdom     | Village          | Overlord                             | Banner     | Class             | Theme                                                      |
@@ -30,7 +40,7 @@
 
 ## Other villages
 
-These villages do not match cleanly with kingdom decks, but most do have relevant interactions with some. 
+These villages do not match cleanly with kingdom decks, but most do have relevant interactions with some.
 
 | Village            | Other usages                              |
 |--------------------|-------------------------------------------|
@@ -53,7 +63,7 @@ These villages do not match cleanly with kingdom decks, but most do have relevan
 
 ## Other banners
 
-These banners do not match cleanly with kingdom decks, but each does have relevant interactions with a deck. 
+These banners do not match cleanly with kingdom decks, but each does have relevant interactions with a deck.
 
 | Banner       | Thematically fits with deck... |
 |--------------|--------------------------------|
@@ -64,7 +74,7 @@ These banners do not match cleanly with kingdom decks, but each does have releva
 
 ## Other classes
 
-These classes do not match cleanly with kingdom decks. 
+These classes do not match cleanly with kingdom decks.
 
 | Class       |
 |-------------|
@@ -74,7 +84,7 @@ These classes do not match cleanly with kingdom decks.
 
 ## Other Overlords
 
-These Overlords do not match with kingdom decks. Four of them are co-op mode specific Overlords. 
+These Overlords do not match with kingdom decks. Four of them are co-op mode specific Overlords.
 
 | Overlord                       | Other usages       |
 |--------------------------------|--------------------|

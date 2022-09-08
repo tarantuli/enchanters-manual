@@ -2,6 +2,28 @@
 
 # Mechanics
 
+<!-- TOC -->
+
+* [Adding a card to a stack](#adding-a-card-to-a-stack)
+* [Taking a card from a stack](#taking-a-card-from-a-stack)
+* [Activating and deactivating parts of cards](#activating-and-deactivating-parts-of-cards)
+* [Burying the top card of a stack](#burying-the-top-card-of-a-stack)
+* [Unburying the bottom card of a stack](#unburying-the-bottom-card-of-a-stack)
+* [Determining health and strength](#determining-health-and-strength)
+* [Taking damage](#taking-damage)
+* [Healing damage](#healing-damage)
+* [Moving a card from one player to another player](#moving-a-card-from-one-player-to-another-player)
+* [Discarding a card](#discarding-a-card)
+* [Discarding tokens](#discarding-tokens)
+* [Removing a card from the game](#removing-a-card-from-the-game)
+* [Attacking](#attacking)
+* [Dueling](#dueling)
+* [Journeying to the graveyard](#journeying-to-the-graveyard)
+* [The Overlord and crystals](#the-overlord-and-crystals)
+* [The Overlord and cards](#the-overlord-and-cards)
+
+<!-- TOC -->
+
 ## Adding a card to a stack
 
 1. Adding a card to a stack means placing the card on top of the stack. If the stack was not empty, leave only the lower
@@ -18,7 +40,7 @@
 
 ## Activating and deactivating parts of cards
 
-> Summary –  recalculate your attack power, defense power and pearl count.
+> Summary – recalculate your attack power, defense power and pearl count.
 
 1. Increase the attack power of the owner by the sum of the ![img.png](icons/attack.png) icons on the activated parts
    and the ![img.png](icons/attack-down.png) icons on the deactivated parts. Decrease the attack power of the owner by

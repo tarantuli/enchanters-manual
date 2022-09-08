@@ -2,6 +2,26 @@
 
 # Complete Setup Guide
 
+<!-- TOC -->
+
+* [Game mode choices](#game-mode-choices)
+* [Co-op game specific choices](#co-op-game-specific-choices)
+* [Starting player](#starting-player)
+* [Kingdom count](#kingdom-count)
+* [Adventure deck selection](#adventure-deck-selection)
+* [Adventure deck preparation](#adventure-deck-preparation)
+* [Initial magical artifact](#initial-magical-artifact)
+* [Village card selection](#village-card-selection)
+* [Overlord selection (non-co-op game)](#overlord-selection-non-co-op-game)
+* [Overlord selection (co-op game)](#overlord-selection-co-op-game)
+* [Overlord deck preparation](#overlord-deck-preparation)
+* [Wound threshold selection](#wound-threshold-selection)
+* [Wound deck preparation](#wound-deck-preparation)
+* [Crystals](#crystals)
+* [Desert token](#desert-token)
+
+<!-- TOC -->
+
 ## Game mode choices
 
 1. Choose what you want to use as starting items:
@@ -21,7 +41,7 @@
 1. Choose whether you want to add an Overlord to the game.[^1]
 1. Choose whether you want to do a co-op game.
 
-### Co-op game specific choices
+## Co-op game specific choices
 
 If you didn't choose to play a co-op game, skip this section.
 
@@ -179,4 +199,5 @@ deck the *Mummies*, skip the rest of this section.
 
 [Return to index](README.md)
 
-[^1]: My personal preference for a fun, but consistent game, used in the [quick setup reference](quick-setup-reference.md).
+[^1]: My personal preference for a fun, but consistent game, used in
+the [quick setup reference](quick-setup-reference.md).

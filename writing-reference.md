@@ -2,6 +2,15 @@
 
 # Writing Reference
 
+<!-- TOC -->
+
+* [Standard terminology](#standard-terminology)
+* [Ordering items](#ordering-items)
+* [Cleaning up files](#cleaning-up-files)
+    * [Normalizing numbered list indices](#normalizing-numbered-list-indices)
+
+<!-- TOC -->
+
 ## Standard terminology
 
 - Always write “Overlord” with a capital.
@@ -14,7 +23,7 @@
 - Use “whenever” instead of “if” whenever it means “whenever”.
 - Use “whether” instead of “if” whenever it means “whether”.
 - The only thing you can “pay” is costs; everything else is usually “discarded”, sometimes “removed”.
-  - E.g., you pay 2![img.png](icons/crystal.png) by discarding two crystals.
+    - E.g., you pay 2![img.png](icons/crystal.png) by discarding two crystals.
 - Abilities are triggered by circumstances; effects are resolved by players.
 - Put specific card names in italics.
   E.g., the *Cave of Fools* village card.

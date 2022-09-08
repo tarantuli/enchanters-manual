@@ -2,6 +2,31 @@
 
 # Gameplay
 
+<!-- TOC -->
+
+* [Flow of the game](#flow-of-the-game)
+* [End of the game (non-co-op)](#end-of-the-game-non-co-op)
+* [End of the game (co-op)](#end-of-the-game-co-op)
+* [Overlord turn](#overlord-turn)
+* [Player turn](#player-turn)
+* [Beginning of turn](#beginning-of-turn)
+* [Main phase](#main-phase)
+* [Journeying](#journeying)
+* [Journey results](#journey-results)
+* [Combat](#combat)
+* [Resting](#resting)
+* [Overlord invasion](#overlord-invasion)
+* [Challenging the Overlord](#challenging-the-overlord)
+* [Minor actions](#minor-actions)
+* [Clean up phase](#clean-up-phase)
+* [Paying weight cost](#paying-weight-cost)
+* [Resetting the journey track](#resetting-the-journey-track)
+* [Resetting attack and defense](#resetting-attack-and-defense)
+* [Resetting minor actions](#resetting-minor-actions)
+* [Victory point tally](#victory-point-tally)
+
+<!-- TOC -->
+
 ## Flow of the game
 
 1. The game is played in rounds, in which each player takes a [turn](#player-turn) in clockwise order, starting with the
