@@ -24,8 +24,8 @@
 | ![img.png](icons/rest-action.png)                                                                          | This is not a minor action, but a rest action.                                                      |
 | ![img.png](icons/overlord.png)                                                                             | This is not a minor action, but a challenge action.                                                 |
 
-[^1]: You cannot discard your top item card if you have less than two items.
-[^2]: You cannot discard your top enchantment card if you have less than two enchantments.
+[^1]: You cannot discard your top item card if you have only one item.
+[^2]: You cannot discard your top enchantment card if you have only one enchantment.
 [^3]: You cannot discard your top monster card if it’s a dragon.
 
 [Return to index](README.md)

@@ -4,9 +4,30 @@
 
 ## Flow of the game
 
-1. The game is played in rounds, in which each player takes a turn in clockwise order, starting with the starting
-   player.
-1. In a co-op game, there is an Overlord turn at the beginning of each round.
+1. The game is played in rounds, in which each player takes a [turn](#player-turn) in clockwise order, starting with the
+   starting player.
+1. In a co-op game, there is an [Overlord turn](#overlord-turn) at the beginning of each round.
+1. The game continues until the end of the game is triggered in either [non-co-op mode](#end-of-the-game-non-co-op) or
+   [co-op mode](#end-of-the-game-co-op).
+
+## End of the game (non-co-op)
+
+1. The game ends after a turn when there are no more cards on the journey track nor in the adventure deck.
+1. If you are playing with the *Arena Mundi* village card, each player duels the player to their left.
+1. If you are playing with *Sa’akara the Gamerunner*, each player may duel a target player once for each reward token he
+   possesses. The player may choose the same target multiple times.
+1. Each player [calculates](#victory-point-tally) how many victory points he has. The players with the highest amount
+   wins, each other player loses.
+
+> **Important**<br>
+> In a game where one complete kingdom deck is used per player, each player should’ve taken exactly 25 turns.
+
+## End of the game (co-op)
+
+1. If at any point, there are more wound tokens on the wound threshold card than the limit depicted on that card, each
+   player loses the game.
+1. If at any point the Overlord has zero hit points remaining, each player wins the game.
+1. If there are no more cards on the journey track nor in the adventure deck, each player loses the game.
 
 ## Overlord turn
 
@@ -24,21 +45,23 @@
 
 ## Player turn
 
-1. A player turn consists of the beginning of his turn, then a main phase followed by a clean up phase.
-1. The main phase consists of exactly one main action and any number of minor actions, in any order.
-1. The clean up phase consists of paying weight cost, resetting the journey track, resetting the attack and defense
-   power of the player, and resetting minor actions.
+1. A player turn consists of the [beginning of his turn](#beginning-of-turn), then a [main phase](#main-phase) followed
+   by a [clean up phase](#clean-up-phase).
 
 ## Beginning of turn
 
 1. The player flips inactive pearl tokens.
 1. Resolve conditional abilities that trigger at the beginning of a turn.
 
-## Main actions
+## Main phase
 
-1. There are two main actions that are always available to players: journeying and resting.
-1. If there is an active Overlord card in play, there is another main action available to players: challenging the
-   Overlord.
+1. The main phase consists of exactly one main action and any number of minor actions, in any order.
+1. There are two main actions that are always available to players: [journeying](#journeying) and [resting](#resting).
+1. If there is an active Overlord card in play, there is another main action available to players:
+   [challenging the Overlord](#challenging-the-overlord).
+
+> **Important**<br>
+> After each player turn, one and only one card should've been drawn from the adventure deck.
 
 ## Journeying
 
@@ -53,7 +76,7 @@
 
 ## Journey results
 
-1. If the slot contains a creature card, combat takes place (see there). If combat fails, skip the rest of the section.
+1. If the slot contains a creature card, [combat](#combat) takes place. If combat fails, skip the rest of the section.
 1. If the card contains an immediate effect ability, resolve it. These effects are prefixed with
    the ![img.png](icons/immediate-effect.png) icon. If the player does not own the card anymore after resolving this
    ability, skip the rest of the section.
@@ -66,10 +89,10 @@
 
 1. The player may take any minor actions he desires.
 1. If the player does not have attack power equal to or greater than the health of the creature:
-    2. Combat failed.
-    3. Discard the card on journey track slot 0.
-    4. If there is an active Overlord in play, the discarded card may trigger an invasion.
-    5. Skip the rest of this section.
+    1. Combat failed.
+    1. Discard the card on journey track slot 0.
+    1. If there is an active Overlord in play, the discarded card may trigger an [invasion](#overlord-invasion).
+    1. Skip the rest of this section.
 1. The creature attacks the player.
 1. Combat was successful, and the creature is defeated. If the player has abilities that trigger when a creature of this
    type is defeated, resolve them now.
@@ -80,16 +103,16 @@
    have ![img.png](icons/rest-action.png) in their cost.
 1. Each village card defines at least one rest action.
 1. Some item, enchantment and Overlord cards also define rest actions.
-1. If the rest action defines an additional cost, the player may pay it. If the player does not pay the cost, he cannot
+1. If the rest action declares an additional cost, the player may pay it. If the player does not pay the cost, he cannot
    take that action.
 1. The player resolves the effects of the rest action.
 1. The player discards the card on journey track slot 0.
-1. If there is an active Overlord in play, the discarded card may trigger an invasion.
+1. If there is an active Overlord in play, the discarded card may trigger an [invasion](#overlord-invasion).
 
 ## Overlord invasion
 
-1. If there is not an active Overlord in play, skip the rest of this section.
 1. This happens when a card from journey track slot 0 is discarded due to resting or failing combat.
+1. If there is not an active Overlord in play, skip the rest of this section.
 1. Invasion abilities are defined on the Overlord card as: *type: effect*.
 1. If the Overlord has invasion abilities associated with the type of the discarded card or any token on it, resolve the
    effects of the abilities.
@@ -118,21 +141,29 @@
 ## Minor actions
 
 1. Minor actions are defined as: *cost ![img.png](icons/minor-action.png) effect*.
-1. Rest actions and challenge actions also follow this format but are not considered minor actions. They have
-   either ![img.png](icons/rest-action.png) or ![img.png](icons/overlord.png) in their cost.
+    1. Rest actions and challenge actions also follow this format but are not considered minor actions. They have
+       either ![img.png](icons/rest-action.png) or ![img.png](icons/overlord.png) in their cost.
 1. A player can activate minor actions visible on his stacks, on the village card and on the Overlord card.
 1. A minor action can only be activated during a player’s turn and when preparing for a duel, and only once per turn per
    card.
 1. A multi-action is a minor action in every regard, except it can be activated more than once per turn per card.
 1. A double action is a minor action in every regard, except it can be activated twice per turn per card.
 1. To activate a minor action, the player must pay the cost. If he does, the effect is resolved, and if it’s not a
-   multi-action the effect on this card gains a used label.
+   multi-action the effect on this card gains a virtual "used" label.
 1. The player may pay part or all of the crystal costs of a minor action by flipping any of his active pearl tokens.
    Each flipped pearl token is equal to paying 1 crystal.
 
+## Clean up phase
+
+1. The clean up phase consists of:
+    1. [Paying weight cost](#paying-weight-cost);
+    1. [Resetting the journey track](#resetting-the-journey-track);
+    1. [Resetting the attack and defense power of the player](#resetting-attack-and-defense);
+    1. [Resetting minor actions](#resetting-minor-actions).
+
 ## Paying weight cost
 
-1. If the player journeyed this turn, discard crystals equal to his weight value.
+1. If the player journeyed this turn, he discards crystals equal to his weight value.
 
 ## Resetting the journey track
 
@@ -149,33 +180,16 @@
 
 ## Resetting minor actions
 
-1. This means that minor actions lose the used label.
+1. This means that your minor actions lose their virtual "used" labels.
 
-## End of the game (non-co-op)
-
-1. The game ends after a turn when there are no more cards on the journey track nor in the adventure deck.
-1. In a game where one complete kingdom deck is used per player, each player should’ve taken exactly 25 turns.
-1. If you are playing with the *Arena Mundi* village card, each player duels the player to their left.
-1. If you are playing with *Sa’akara the Gamerunner*, each player may duel a target player once for each reward token he
-   possesses. The player may choose the same target multiple times.
-1. Each player calculates how many victory points he has. The players with the highest amount wins, each other player
-   loses.
-
-## End of the game (co-op)
-
-1. If at any point, there are more wound tokens on the wound threshold card than the limit on that card, each player
-   loses the game.
-1. If at any point the Overlord has zero hit points remaining, each player wins the game.
-1. If there are no more cards on the journey track nor in the adventure deck, each player loses the game.
-
-## Victory point calculation
+## Victory point tally
 
 1. Sum the victory points gained from the following sources:
-    - From the village card.
-    - From the visible sections of the cards in your stacks.
-    - From reward tokens, where each reward token counts as a card with the description that appears in the “reward”
-      section of the Overlord card.
-    - From your wound count: you get -1 victory point for each wound.
+    1. From the village card;
+    1. From the visible sections of the cards in your stacks;
+    1. From reward tokens, where each reward token counts as a card with the description that appears in the “reward”
+       section of the Overlord card;
+    1. From your wound count: you get -1 victory point for each wound.
 1. The total number of victory points may be less than zero.
 
 [Return to index](README.md)

@@ -5,6 +5,7 @@
 * [What and Why](#what-and-why)
 * [Coverage](#coverage)
 * [How to Contribute](#how-to-contribute)
+* [Known Issues](#known-issues)
 * [Expanded Table of Contents](toc.md#expanded-table-of-contents)
 * [Terminology](terminology.md#terminology)
 * [Deck Themes](deck-themes.md#deck-themes)
@@ -20,15 +21,15 @@
 
 <!-- TOC -->
 
-# What and Why
+# What and why
 
-This is an extended manual for the boardgame Enchanters (https://mythicgames.net/enchanters-a-serial-fantasy/) by Mythic
-Games.
+This is an extended manual for the boardgame *Enchanters* (https://mythicgames.net/enchanters-a-serial-fantasy/) by 
+*Mythic Games*.
 
 It's a personal, non affiliated project, born from a desire to apply my technical writing itch, and this game was an
 ideal target.
 
-Enchanters, while awesome to play, frequently raises questions concerning the meaning of card texts, rules
+*Enchanters*, while awesome to play, frequently raises questions concerning the meaning of card texts, rules
 and effect order. Even setup can take frustratingly long when trying to remember or look up the specifics of Overlords,
 co-op mode, the AI deck.
 
@@ -80,3 +81,8 @@ greatly appreciate that. I'm also looking into creating and using a custom webfo
 integrate icon usage in the text.
 
 Lastly, if you find this manual useful, please share it with friends who would appreciate it as well!
+
+# Known issues
+
+- The manual mixes "you", "the player" and "the active player", probably inconsistently.
+- 
