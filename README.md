@@ -27,16 +27,19 @@ It's a personal, non affiliated project, born from a desire to apply my technica
 ideal target.
 
 Enchanters, while awesome to play, frequently raises questions concerning the meaning of card texts, rules
-and effect order. Even setup can take frustratingly long, when trying to remember or look up the specifics of Overlords,
+and effect order. Even setup can take frustratingly long when trying to remember or look up the specifics of Overlords,
 co-op mode, the AI deck.
 
 This document aims to resolve these issues by providing:
 
-- An overview of all the kingdom decks, their themes and their associated banners, classes and Overlords;
-- A quick setup guide with just the relevant choices;
-- An extended setup guide containing all the nitty gritty details;
-- Complete definitions of gameplay flow and mechanics;
-- Consistent interpretations of card texts (costs, conditions, effects, victory points).
+- An [overview](deck-themes.md#deck-themes) of all the kingdom decks, their themes and their associated banners, classes
+  and Overlords;
+- A [quick setup guide](quick-setup.md#quick-setup) with just the relevant choices;
+- An [extended setup guide](complete-setup.md#complete-setup) containing all the nitty gritty details;
+- Complete definitions of [gameplay flow](gameplay.md#flow-of-the-game) and [mechanics](mechanics.md#mechanics);
+- Consistent interpretations of card texts ([costs](costs.md#costs),
+  [conditions](conditions.md#conditions-table), [effects](effects.md#effects-table),
+  [victory points](victory-points.md#victory-points-table)).
 
 It tries to steer away from opinionated choices, to stay as close to the original texts as possible while being
 consistent. Whenever possible, interpretations fitting the spirit of the game were chosen over literal, but
