@@ -3,6 +3,8 @@
 <!-- TOC -->
 
 * [What and Why](#what-and-why)
+* [Coverage](#coverage)
+* [How to Contribute](#how-to-contribute)
 * [Expanded Table of Contents](toc.md#expanded-table-of-contents)
 * [Terminology](terminology.md#terminology)
 * [Deck Themes](deck-themes.md#deck-themes)
@@ -45,3 +47,36 @@ This document aims to resolve these issues by providing:
 It tries to steer away from opinionated choices, to stay as close to the original texts as possible while being
 consistent. Whenever possible, interpretations fitting the spirit of the game were chosen over literal, but
 illogical ones. Also, we prefer simple and clean interpretations over complex ones.
+
+# Coverage
+
+This manual covers:
+
+- The base game
+- Enchanters: Overlords
+- Enchanters: Wound Deck
+- Enchanters: Odyssee
+- Enchanters: As Above So Below[^above]
+- Enchanters: Rage And Laughter[^rage]
+
+It does not (yet) cover:
+
+- Enchanters: Event deck[^possess]
+- Enchanters: Mythic Deck[^possess]
+- Enchanters: East Quest[^possess]
+- Enchanters: Dark Lands
+
+[^above]: It covers the Angels and Troglodytes kingdom decks.
+[^rage]: It covers the Barbarians and Faeries kingdom decks.
+[^possess]: I do possess these expansions, so future inclusion is possible.
+
+# How to contribute
+
+To improve both this manual and my skill, I welcome all questions and remarks. In particular, I would love to know which
+text fragments are unclear or contradictory. Also, do tell me which keywords or mechanics are not explained at all.
+
+I've used images extracted from the manual PDFs for the icons. If somebody could provide a better source, I would
+greatly appreciate that. I'm also looking into creating and using a custom webfont based on the icons to seamlessly
+integrate icon usage in the text.
+
+Lastly, if you find this manual useful, please share it with friends who would appreciate it as well!

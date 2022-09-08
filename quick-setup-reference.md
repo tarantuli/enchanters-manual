@@ -34,4 +34,4 @@
 
 [Return to index](README.md)
 
-[^1]: This is based on opinionated choices, see the [comeplete setup guide](complete-setup-guide.md) for all possibilities.
+[^1]: This is based on opinionated choices, see the [complete setup guide](complete-setup-guide.md) for all possibilities.
