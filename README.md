@@ -24,14 +24,12 @@
 # What and why
 
 This is an extended manual for the boardgame *Enchanters* (https://mythicgames.net/enchanters-a-serial-fantasy/) by
-*Mythic Games*.
+*Mythic Games*. It's a personal, non affiliated project, born from a desire to apply my technical writing itch, and a
+desire to have a complete and consistent document that's easy to navigate.
 
-It's a personal, non affiliated project, born from a desire to apply my technical writing itch, and this game was an
-ideal target.
-
-*Enchanters*, while awesome to play, frequently raises questions concerning the meaning of card texts, rules
-and effect order. Even setup can take frustratingly long when trying to remember or look up the specifics of Overlords,
-co-op mode, the AI deck.
+*Enchanters* is an awesome game to play, but existing manuals frequently fail to answer questions concerning the meaning
+of card texts, rules and effect order. Even setting up the game can take frustratingly long when trying to remember the
+myriad ways to set up, the specifics of Overlords, the differences between non-co-op mode and co-op mode.
 
 This document aims to resolve these issues by providing:
 
@@ -46,8 +44,8 @@ This document aims to resolve these issues by providing:
   [victory points](victory-points.md#victory-points)).
 
 It tries to steer away from opinionated choices, to stay as close to the original texts as possible while being
-consistent. Whenever possible, interpretations fitting the spirit of the game were chosen over literal, but
-illogical ones. Also, we prefer simple and clean interpretations over complex ones.
+consistent. Whenever possible, interpretations fitting the spirit of the game were chosen over literal ones. Also, I
+prefer simple and clean interpretations over complex ones.
 
 # Coverage
 
@@ -71,6 +69,12 @@ It does not (yet) cover:
 [^rage]: It covers the Barbarians and Faeries kingdom decks.
 [^possess]: I do possess these expansions, so future inclusion is possible.
 
+# Known issues
+
+- The manual mixes usage of "you", "the player" and "the active player", probably inconsistently.
+- Not all items in the keyword index link to good jumping off points.  
+- Icons are represented by low quality, black on white opaque images instead of vector glyphs. 
+
 # How to contribute
 
 To improve both this manual and my skill, I welcome all questions and remarks. In particular, I would love to know which
@@ -81,8 +85,3 @@ greatly appreciate that. I'm also looking into creating and using a custom webfo
 integrate icon usage in the text.
 
 Lastly, if you find this manual useful, please share it with friends who would appreciate it as well!
-
-# Known issues
-
-- The manual mixes usage of "you", "the player" and "the active player", probably inconsistently.
-- Icons are represented by black on white opaque images of rather low quality instead of vector glyphs. 
