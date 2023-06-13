@@ -101,21 +101,20 @@
 ## Reinforcement tokens
 
 1. Reinforcement tokens have a ![img.png](icons/health.png) icon on one side and a ![img.png](icons/strength.png) icon
-   on the
-   other side.
+   on the other side.
 1. Each token on a monster, dragon or Overlord card increases the stat that’s face up (either health or strength) by
    one.
 
 ## Overlord event cards
 
 1. These are placed behind the AI Deck separator in the box.
-1. Overlord event cards are used in co-op mode; they represent the actions the Overlord takes during his turn.
+1. Overlord event cards are used in co-op mode; they represent the actions the Overlord takes during their turn.
 1. There are twenty-six basic Overlord event cards.
 1. There are six Overlord specific Overlord event cards for each co-op specific Overlord.
 
 ## Magical artifact
 
-1. The combination of a player’s item stack and enchantment stack is called his magical artifact.
+1. The combination of a player’s item stack and enchantment stack is called their magical artifact.
 
 ## Creature
 
@@ -159,32 +158,31 @@
 
 ## Wound count
 
-1. A player’s wound count is equal to the number of wound tokens he has, plus ten for each wound card he has.
+1. A player’s wound count is equal to the number of wound tokens they have, plus ten for each wound card they have.
 
 ## Weight value
 
-1. A player’s weight value is equal to the sum of his visible ![img.png](icons/weight.png) icons. This can be modified
-   by
-   effects.
+1. A player’s weight value is equal to the sum of their visible ![img.png](icons/weight.png) icons. This can be modified
+   by effects.
 
 ## Speed value
 
-1. A player’s speed value is equal to the sum of his visible ![img.png](icons/speed.png) icons. This can be modified by
-   effects.
+1. A player’s speed value is equal to the sum of their visible ![img.png](icons/speed.png) icons. This can be modified
+   by effects.
 
 ## Slime value
 
-1. A player’s slime value is equal to the sum of his visible ![img.png](icons/slime.png) icons. This can be modified by
-   effects.
+1. A player’s slime value is equal to the sum of their visible ![img.png](icons/slime.png) icons. This can be modified
+   by effects.
 
 ## Pearl value
 
-1. A player’s pearl value is equal to the sum of his visible ![img.png](icons/pearl.png) icons. This can be modified by
-   effects.
+1. A player’s pearl value is equal to the sum of their visible ![img.png](icons/pearl.png) icons. This can be modified
+   by effects.
 
 ## Undead value
 
-1. A player’s undead value is equal to the sum of his visible ![img.png](icons/undead.png) icons. This can be modified
+1. A player’s undead value is equal to the sum of their visible ![img.png](icons/undead.png) icons. This can be modified
    by effects.
 
 ## Another player

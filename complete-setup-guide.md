@@ -98,22 +98,22 @@ If you didn't choose to play a co-op game, skip this section.
 ## Initial magical artifact
 
 1. If you chose basic fists as the starting items:
-    1. Give each player a *fist* card. This is placed face up in his item stack.
+   1. Give each player a *fist* card. This is placed face up in their item stack.
 1. If you chose banners as the starting items and chose to use completely random banners:
-    1. Give each player two random banner cards.
-    1. The player chooses one of these cards and places it face up in his item stack. The other card is discarded.
+   1. Give each player two random banner cards.
+   1. The player chooses one of these cards and places it face up in their item stack. The other card is discarded.
 1. If you chose banners as the starting items and chose to use the kingdom related banners:
-    1. Gather the banners associated with the selected kingdoms, shuffle them, and deal one to each player.
-    1. This is placed face up in his item stack.
+   1. Gather the banners associated with the selected kingdoms, shuffle them, and deal one to each player.
+   1. This is placed face up in their item stack.
 1. If you chose basic enchanting as the starting items:
-    1. Give each player an *enchanting* card. This is placed face up in his enchantment stack.
+   1. Give each player an *enchanting* card. This is placed face up in their enchantment stack.
 1. If you chose classes as the starting enchantments and chose to use completely random classes:
-    1. Give each player two random class cards.
-    1. The player chooses one of these cards and places it face up in his enchantment stack. The other card is
-       discarded.
+   1. Give each player two random class cards.
+   1. The player chooses one of these cards and places it face up in their enchantment stack. The other card is
+      discarded.
 1. If you chose classes as the starting enchantments and chose to use the kingdom related classes:
-    1. Gather the classes associated with the selected kingdoms, shuffle them, and deal one to each player.
-    1. This is placed face up in his enchantment stack.
+   1. Gather the classes associated with the selected kingdoms, shuffle them, and deal one to each player.
+   1. This is placed face up in their enchantment stack.
 
 ## Village card selection
 
@@ -187,8 +187,8 @@ If you did not choose a co-op game, skip the rest of this section.
 ## Crystals
 
 1. Each player takes 5 crystals.
-    1. If the *Cave of Fools* is the selected village card, each player takes 25 crystals instead.
-1. If a player has *of Sculptors* as his starting enchantment, he takes an additional 20 crystals.
+   1. If the *Cave of Fools* is the selected village card, each player takes 25 crystals instead.
+1. If a player has *of Sculptors* as their starting enchantment, they take an additional 20 crystals.
 
 ## Desert token
 

@@ -39,9 +39,9 @@
 
 1. The game ends after a turn when there are no more cards on the journey track nor in the adventure deck.
 1. If you are playing with the *Arena Mundi* village card, each player duels the player to their left.
-1. If you are playing with *Sa’akara the Gamerunner*, each player may duel a target player once for each reward token he
-   possesses. The player may choose the same target multiple times.
-1. Each player [calculates](#victory-point-tally) how many victory points he has. The players with the highest amount
+1. If you are playing with *Sa’akara the Gamerunner*, each player may duel a target player once for each reward token
+   they possess. The player may choose the same target multiple times.
+1. Each player [calculates](#victory-point-tally) how many victory points they have. The players with the highest amount
    wins, each other player loses.
 
 > **Important**<br>
@@ -70,8 +70,8 @@
 
 ## Player turn
 
-1. A player turn consists of the [beginning of his turn](#beginning-of-turn), then a [main phase](#main-phase) followed
-   by a [cleanup phase](#clean-up-phase).
+1. A player turn consists of the [beginning of their turn](#beginning-of-turn), then a [main phase](#main-phase)
+   followed by a [cleanup phase](#clean-up-phase).
 
 ## Beginning of turn
 
@@ -97,7 +97,7 @@
 1. If the player has the “journeys at ![img.png](icons/damage.png) 3 or more cost you only
    3 ![img.png](icons/crystal.png)” effect, and the slot number is three or higher, this cost is set to 3.
 1. This cost is lowered by the player’s speed value. If it’s less than one, the cost is zero.
-1. If the player does not pay the cost, he cannot journey to this slot.
+1. If the player does not pay the cost, they cannot journey to this slot.
 
 ## Journey results
 
@@ -106,30 +106,30 @@
    the ![img.png](icons/immediate-effect.png) icon. If the player does not own the card anymore after resolving this
    ability, skip the rest of the section.
 1. If the player has effects that trigger after taking a card of this type, resolve those.
-1. If it's item card, the player adds that card to his item stack.
-1. If it's an enchantment card, the player adds that card to his enchantment stack.
-1. If it's a creature card, the player adds that card to his creature stack.
+1. If it's item card, the player adds that card to their item stack.
+1. If it's an enchantment card, the player adds that card to their enchantment stack.
+1. If it's a creature card, the player adds that card to their creature stack.
 
 ## Combat
 
-1. The player may take any minor actions he desires.
+1. The player may take any minor actions they desire.
 1. If the player does not have attack power equal to or greater than the health of the creature:
-    1. Combat failed.
-    1. Discard the card on journey track slot 0.
-    1. If there is an active Overlord in play, the discarded card may trigger an [invasion](#overlord-invasion).
-    1. Skip the rest of this section.
+   1. Combat failed.
+   1. Discard the card on journey track slot 0.
+   1. If there is an active Overlord in play, the discarded card may trigger an [invasion](#overlord-invasion).
+   1. Skip the rest of this section.
 1. The creature attacks the player.
 1. Combat was successful, and the creature is defeated. If the player has abilities that trigger when a creature of this
    type is defeated, resolve them now.
 
 ## Resting
 
-1. To rest, the player chooses one of the rest actions available to him. Rest actions
+1. To rest, the player chooses one of the rest actions available to them. Rest actions
    have ![img.png](icons/rest-action.png) in their cost.
 1. Each village card defines at least one rest action.
 1. Some item, enchantment and Overlord cards also define rest actions.
-1. If the rest action declares an additional cost, the player may pay it. If the player does not pay the cost, he cannot
-   take that action.
+1. If the rest action declares an additional cost, the player may pay it. If the player does not pay the cost, they
+   cannot take that action.
 1. The player resolves the effects of the rest action.
 1. The player discards the card on journey track slot 0.
 1. If there is an active Overlord in play, the discarded card may trigger an [invasion](#overlord-invasion).
@@ -145,11 +145,11 @@
 
 ## Challenging the Overlord
 
-1. Challenging the Overlord means fighting him to either gain reward tokens or reduce his hit points.
+1. Challenging the Overlord means fighting them to either gain reward tokens or reduce their hit points.
 1. If there is not an active Overlord in play, this action is not available.
 1. Most Overlord cards define at least one challenge action. Challenge actions have ![img.png](icons/overlord.png) in
    their cost.
-1. If the challenge action defines an additional cost, the player may pay it. If the player does not pay the cost, he
+1. If the challenge action defines an additional cost, the player may pay it. If the player does not pay the cost, they
    cannot take this action.
 1. Combat takes place. If combat fails, skip the rest of this section.
 1. If you chose to play with reinforcements, add a reinforcement token with a random side up on the Overlord. If this is
@@ -157,7 +157,8 @@
 1. If this is not a co-op game, the player takes one reward token from the Overlord card. The token acts as a card with
    the text that’s in the “reward” section of the Overlord card. If the reward section defines an immediate
    effect ![img.png](icons/immediate-effect.png), resolve it now.
-1. If this not a co-op game and the last reward token is taken from the Overlord, he is considered defeated and inactive
+1. If this not a co-op game and the last reward token is taken from the Overlord, they are considered defeated and
+   inactive
    from now on.
 1. If you chose to play a co-op game, resolve the effects of the “reward” section of the Overlord card. This typically
    lowers the hit points of the Overlord.
@@ -166,16 +167,16 @@
 ## Minor actions
 
 1. Minor actions are defined as: *cost ![img.png](icons/minor-action.png) effect*.
-    1. Rest actions and challenge actions also follow this format but are not considered minor actions. They have
-       either ![img.png](icons/rest-action.png) or ![img.png](icons/overlord.png) in their cost.
-1. A player can activate minor actions visible on his stacks, on the village card and on the Overlord card.
+   1. Rest actions and challenge actions also follow this format but are not considered minor actions. They have
+      either ![img.png](icons/rest-action.png) or ![img.png](icons/overlord.png) in their cost.
+1. A player can activate minor actions visible on their stacks, on the village card and on the Overlord card.
 1. A minor action can only be activated during a player’s turn and when preparing for a duel, and only once per turn per
    card.
 1. A multi-action is a minor action in every regard, except it can be activated more than once per turn per card.
 1. A double action is a minor action in every regard, except it can be activated twice per turn per card.
-1. To activate a minor action, the player must pay the cost. If he does, the effect is resolved, and if it’s not a
+1. To activate a minor action, the player must pay the cost. If they do, the effect is resolved, and if it’s not a
    multi-action the effect on this card gains a virtual "used" label.
-1. The player may pay part or all of the crystal costs of a minor action by flipping any of his active pearl tokens.
+1. The player may pay part or all of the crystal costs of a minor action by flipping any of their active pearl tokens.
    Each flipped pearl token is equal to paying 1 crystal.
 
 ## Clean up phase
@@ -188,7 +189,7 @@
 
 ## Paying weight cost
 
-1. If the player journeyed this turn, he discards crystals equal to his weight value.
+1. If the player journeyed this turn, they discard crystals equal to their weight value.
 
 ## Resetting the journey track
 

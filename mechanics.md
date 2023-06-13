@@ -97,7 +97,7 @@
 ## Taking damage
 
 1. Taking X damage means taking X wound tokens.
-1. In co-op mode, the players have one shared wound token pool. Otherwise, each player has his own wound token pool.
+1. In co-op mode, the players have one shared wound token pool. Otherwise, each player has their own wound token pool.
 1. In non-co-op mode, as long as you have ten or more wound tokens, discard ten tokens, draw two cards from the wound
    deck and add one to your wound stack. Discard the other.
 
@@ -160,7 +160,7 @@
 ### The Overlord and crystals
 
 1. If this is not a co-op game, skip this section.
-1. If the active player gives crystals to the Overlord, store them on his card.
+1. If the active player gives crystals to the Overlord, store them on their card.
 1. Whenever there are more than five crystals on the Overlord, discard 5 and add a reinforcement token, random side face
    up.
 1. If a player must take crystals from the Overlord, take as many from its card as you can, then take the rest from the
@@ -169,11 +169,11 @@
 ### The Overlord and cards
 
 1. If this is not a co-op game, skip this section.
-1. If a player must give one of his cards to the Overlord due to any effect that’s not part of the Overlord’s own
-   abilities, he discards it instead.
-1. If the Overlord must give one of his cards, or discard one of his cards, do nothing instead.
+1. If a player must give one of their cards to the Overlord due to any effect that’s not part of the Overlord’s own
+   abilities, they discard it instead.
+1. If the Overlord must give one of their cards, or discard one of their cards, do nothing instead.
 1. In both cases, if this action would be considered positive for the player or negative for the Overlord, remove one
-   reinforcement token of his choice from the Overlord card. Otherwise, add one reinforcement token to the Overlord card,
-   with a random side up.
+   reinforcement token of their choice from the Overlord card. Otherwise, add one reinforcement token to the Overlord
+   card, with a random side up.
 
 [Return to index](README.md)

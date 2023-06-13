@@ -21,11 +21,10 @@
     1. Select the *Enchanters Guild* village card and put it on the table.
     1. Choose either one of the four co-op specific Overlords or one of the co-op adaptable Overlords associated with
        the selected kingdom decks. If it’s one of the latter, cover their abilities with the appropriate Overlord
-       overlay card.
-       Put the Overlord card on the table.
+       overlay card. Put the Overlord card on the table.
     1. Set the Overlord dial to 99 hit points, then put it on the table.
-    1. Take the basic Overlord event cards. If you have selected a co-op specific Overlord, add his Overlord event cards
-       to the deck. Shuffle it and place it on the table.
+    1. Take the basic Overlord event cards. If you have selected a co-op specific Overlord, add their Overlord event
+       cards to the deck. Shuffle it and place it on the table.
     1. Choose a wound threshold card and put it on the table.
 1. Shuffle the wound deck and put it on the table.
 1. Each player takes 5 crystals. The *Cave of Fools* village card and the *of Sculptors* class may change this amount.
