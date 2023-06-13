@@ -104,7 +104,7 @@
 ## Healing damage
 
 1. Healing X damage means discarding X wound tokens.
-1. In non-co-op mode, as long as you have fewer wound tokens than the amount of damage to heal and you have cards in
+1. In non-co-op mode, as long as you have fewer wound tokens than the amount of damage to heal, and you have cards in
    your wound stack, discard the top card of your wound stack and take ten tokens.
 1. In co-op mode, you discard from the shared wound token pool. Otherwise, you discard from your own pool.
 1. If you have less than X wound tokens, discard all. Otherwise, discard X wound tokens.
@@ -173,7 +173,7 @@
    abilities, he discards it instead.
 1. If the Overlord must give one of his cards, or discard one of his cards, do nothing instead.
 1. In both cases, if this action would be considered positive for the player or negative for the Overlord, remove one
-   reinforcement token of his choice from the Overlord card. Otherwise add one reinforcement token to the Overlord card,
+   reinforcement token of his choice from the Overlord card. Otherwise, add one reinforcement token to the Overlord card,
    with a random side up.
 
 [Return to index](README.md)

@@ -37,7 +37,7 @@ This document aims to resolve these issues by providing:
   and Overlords;
 - A [quick setup reference](quick-setup-reference.md#quick-setup-reference1) based on the complete setup guide and
   opinionated choices;
-- A [complete setup guide](complete-setup-guide.md#complete-setup-guide) containing all the nitty gritty details;
+- A [complete setup guide](complete-setup-guide.md#complete-setup-guide) containing all the nitty-gritty details;
 - Complete definitions of [gameplay flow](gameplay.md#flow-of-the-game) and [mechanics](mechanics.md#mechanics);
 - Consistent interpretations of card texts ([costs](costs.md#costs),
   [conditions](conditions.md#conditions), [effects](effects.md#effects),

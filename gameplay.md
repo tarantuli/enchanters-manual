@@ -71,7 +71,7 @@
 ## Player turn
 
 1. A player turn consists of the [beginning of his turn](#beginning-of-turn), then a [main phase](#main-phase) followed
-   by a [clean up phase](#clean-up-phase).
+   by a [cleanup phase](#clean-up-phase).
 
 ## Beginning of turn
 
@@ -180,7 +180,7 @@
 
 ## Clean up phase
 
-1. The clean up phase consists of:
+1. The cleanup phase consists of:
     1. [Paying weight cost](#paying-weight-cost);
     1. [Resetting the journey track](#resetting-the-journey-track);
     1. [Resetting the attack and defense power of the player](#resetting-attack-and-defense);

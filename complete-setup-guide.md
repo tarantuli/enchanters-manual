@@ -33,7 +33,7 @@
 1. Choose how you want to select kingdom decks:
     1. Select randomly;
     1. Select decks in player order;
-    1. Select decks as as group.[^1]
+    1. Select decks as a group.[^1]
 1. Choose whether you want a shorter game.
 1. Choose what you want:
     1. Completely random villages, banners, classes and Overlords;
